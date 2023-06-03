@@ -1,0 +1,95 @@
+.btns {
+    border-radius: 50px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border: transparent;
+    padding: 6px;
+    width: 150px;
+}
+
+.editBtn {
+    border-radius: 50px;
+    background-color: rgb(0, 255, 76);
+    color: white;
+    border: transparent;
+    padding: 6px;
+    width: 100px;
+    margin-right: 6px;
+}
+
+.delBtn {
+    border-radius: 50px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: transparent;
+    padding: 6px;
+    width: 100px;
+}
+
+.head {
+    margin-top: 10px;
+}
+
+.head ul li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.head ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.head ul li :hover {
+    color: blue;
+}
+
+.dataRow div {
+    display: inline-block;
+    margin-right: 40px;
+
+}
+
+.main-Div {
+    text-align: center;
+    padding: "20px";
+
+}
+
+/* ============================================== */
+/* PREV NEXT   */
+
+.pre {
+    background-color: black;
+
+}
+
+.pre a,
+.next a {
+    text-decoration: none;
+    color: white;
+}
+
+.next {
+    background-color: black;
+
+}
+
+.next a:hover{
+    color: white;
+}
+.pre a:hover{
+    color: white;
+}
+.next:hover {
+    text-decoration: none;
+    background-color: rgb(190, 190, 190);
+  
+}
+.pre:hover {
+    text-decoration: none;
+    background-color: rgb(190, 190, 190);
+}

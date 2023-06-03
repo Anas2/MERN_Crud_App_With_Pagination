@@ -1,0 +1,96 @@
+.cards{
+    border: 1px solid rgb(226, 226, 226);
+    padding: 20px;
+    margin-top: 15px !important;
+    
+}
+.cart{
+    /* border: 1px solid rgb(226, 226, 226); */
+    padding: 20px;
+
+}
+.insidecart{
+/* margin-left: 20px; */
+border: 1px solid rgb(226, 226, 226);
+}
+.sec-inside{
+    border: 1px solid rgb(226, 226, 226);
+    padding: 24px;
+    margin-left: 0px !important;
+}
+.right-col{
+    padding: 20px;
+}
+.right{
+    text-align: right;
+}
+.text-small{
+    font-size: 14px !important;
+}
+
+/* ================================================================================= */
+
+/* Detail Page Css  */
+
+/* ============================================================================================ */
+/* DETAILS CSS  */
+
+.mainDetails {
+
+    width: 100%;
+    padding: 23px;
+
+}
+
+.mid h2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.mid h5 {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mid span {
+    text-align: left;
+}
+
+.price {
+    text-align: left;
+    font-size: 28px;
+    margin-left: 10px;
+}
+
+.mid {
+    padding: 20px;
+}
+
+.closebtn {
+    width: 100%;
+    text-align: right;
+}
+.closebtn button{
+    background-color: transparent;
+    /* border: none; */
+    font-size: 17px;
+    font-weight: bold;
+
+}
+.btnMain{
+border: none;
+text-align: left;
+padding: 10px;
+}
+.btnMain button{
+    background-color: rgb(1, 170, 212);
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 8px;
+    width: 140px;
+    border-radius: 5px;
+}
